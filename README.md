@@ -1,4 +1,4 @@
-<div align= "center">
+
 
 ##   🙌 소개
 - 이름: 이규형 / Lee Gue Hyeong
