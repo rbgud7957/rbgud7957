@@ -91,7 +91,7 @@ Arduino UNO Board
 
 🔥 일정 온도 이하로 떨어지면 자동으로 켜지는 보일러
 
-
+![Image](https://github.com/user-attachments/assets/90ce012e-542c-402f-9879-94495b84568a)
 
 <br>
 
