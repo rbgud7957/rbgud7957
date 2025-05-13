@@ -82,7 +82,7 @@ HTML 페이지에서 실시간 데이터 표시
 
 ![Image](https://github.com/user-attachments/assets/4d48de20-2dfb-43be-93d0-d337a3be5354)
 
-<br>
+---
 
 **💊 영양제 복용 관리 애플리케이션 (TEAM) 🔎  [깃허브](https://github.com/rbgud7957/Nutriwish.git)
 - *2024.09.06 ~ 2024.11.22*
@@ -99,5 +99,4 @@ HTML 페이지에서 실시간 데이터 표시
 
 ![Image](https://github.com/user-attachments/assets/bd042d9f-bdbe-495d-9c9e-6018b87319e0)
 
-</br>
-<br>
+---
