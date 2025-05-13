@@ -80,6 +80,9 @@ MongoDB에 국가명 / 화폐명 / 환율 컬렉션 구분 저장
 
 HTML 페이지에서 실시간 데이터 표시
 
+![Image](https://github.com/user-attachments/assets/4d48de20-2dfb-43be-93d0-d337a3be5354)
+
+<br>
 
 **💊 영양제 복용 관리 애플리케이션 (TEAM) 🔎  [깃허브](https://github.com/rbgud7957/Nutriwish.git)
 - *2024.09.06 ~ 2024.11.22*
