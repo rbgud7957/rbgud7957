@@ -65,6 +65,21 @@
 
 ## 💻 프로젝트
 
+💱 실시간 환율 조회 시스템 (개인) 🔎 (https://github.com/rbgud7957/IOT-project.git)
+⏰ 기간: 2024.06.08
+
+⚙️ 기술 스택: Java, Node.js, MongoDB, HTML/CSS, MQTT, Socket.IO
+
+공공데이터포털 API를 활용해 실시간 환율(USD 기준)을 수집하고, MQTT를 통해 발행 → 구독 구조로 MongoDB에 저장하며, 웹페이지에서 실시간으로 시각화한 프로젝트
+
+Java로 MQTT Publisher 구현 (환율 데이터 발행)
+
+Node.js로 Subscriber + DB 연동 + Socket.IO 구성
+
+MongoDB에 국가명 / 화폐명 / 환율 컬렉션 구분 저장
+
+HTML 페이지에서 실시간 데이터 표시
+
 
 **💊 영양제 복용 관리 애플리케이션 (TEAM) 🔎  [깃허브])_**
 - *2024.09.06 ~ 2024.11.22*
