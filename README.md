@@ -65,8 +65,8 @@
 
 ## 💻 프로젝트
 
-💱 실시간 환율 조회 시스템 (개인) 🔎 (https://github.com/rbgud7957/IOT-project.git)
-⏰ 기간: 2024.06.08
+💱 실시간 환율 조회 시스템 (개인) 🔎 [깃허브](https://github.com/rbgud7957/IOT-project.git)
+⏰ 기간: 2024.05.31 ~ 2024.06.21
 
 ⚙️ 기술 스택: Java, Node.js, MongoDB, HTML/CSS, MQTT, Socket.IO
 
@@ -81,7 +81,7 @@ MongoDB에 국가명 / 화폐명 / 환율 컬렉션 구분 저장
 HTML 페이지에서 실시간 데이터 표시
 
 
-**💊 영양제 복용 관리 애플리케이션 (TEAM) 🔎  [깃허브])_**
+**💊 영양제 복용 관리 애플리케이션 (TEAM) 🔎  [깃허브](https://github.com/rbgud7957/Nutriwish.git)
 - *2024.09.06 ~ 2024.11.22*
 
 - 사용자들이 더 나은 건강을 유지하며, 자신의 건강 상태에 맞는 영양제 복용을 선택하고 관리할 수 있는 실용적인 애플리케이션
@@ -93,5 +93,8 @@ HTML 페이지에서 실시간 데이터 표시
   - 서버 관리 및 데이터베이스 제작
  
 ![image](https://github.com/user-attachments/assets/3a7981ef-e881-4a04-acc8-f386025b0ad9)
+
+![Image](https://github.com/user-attachments/assets/bd042d9f-bdbe-495d-9c9e-6018b87319e0)
+
 </br>
 <br>
