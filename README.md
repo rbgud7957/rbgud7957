@@ -65,6 +65,31 @@
 
 ## 💻 프로젝트
 
+🏠 똑똑 스마트 홈 (TEAM) 🔎 [깃허브](https://github.com/rbgud7957/Smarthome)
+
+📅 프로젝트 기간
+2023.11.03 ~ 2023.11.29
+
+💡 프로젝트 개요
+Arduino UNO Board와 다양한 센서, 액추에이터(서보모터, LED, LCD, 피에조 스피커 등)를 이용하여 스마트홈 모형을 제작했습니다.
+
+🛠 기술 스택
+Arduino UNO Board
+
+센서 및 액추에이터: 초음파 센서, 조도 센서, 부동 센서, 인체 감지 센서, 피에조 스피커, 서보모터, LED, LCD, 버튼(스위치)
+
+개발 환경: Arduino IDE
+
+🗂 주요 기능
+🔘 스위치를 이용해 집 내부의 전등 ON/OFF 제어
+→ Arduino 보드 및 코드 구현
+
+🚶 인체 감지 센서를 통해 사람이 현관 앞에 서면 자동으로 불이 켜짐
+→ Arduino 보드 및 코드 구현
+<br>
+
+---
+
 💱 실시간 환율 조회 시스템 (개인) 🔎 [깃허브](https://github.com/rbgud7957/IOT-project.git)
 ⏰ 기간: 2024.05.31 ~ 2024.06.21
 
@@ -97,6 +122,5 @@ HTML 페이지에서 실시간 데이터 표시
  
 ![image](https://github.com/user-attachments/assets/3a7981ef-e881-4a04-acc8-f386025b0ad9)
 
-![Image](https://github.com/user-attachments/assets/bd042d9f-bdbe-495d-9c9e-6018b87319e0)
 
 ---
