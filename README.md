@@ -95,7 +95,7 @@ HTML 페이지에서 실시간 데이터 표시
   
   - 애플리케이션의 CSS 일부 구현
   - SpringBoot를 이용한 라즈베리파이 서버 만들다가 Firebase로 변경 + Firebase 연동
-  - 서버 관리 및 데이터베이스 제작
+  - 서버 및 데이터베이스 관리
  
 ![image](https://github.com/user-attachments/assets/3a7981ef-e881-4a04-acc8-f386025b0ad9)
 
