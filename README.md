@@ -81,6 +81,8 @@ Node.js로 Subscriber + DB 연동 + Socket.IO 구성
 MongoDB에 국가명 / 화폐명 / 환율 컬렉션 구분 저장
 
 HTML 페이지에서 실시간 데이터 표시
+
+
 ![Image](https://github.com/user-attachments/assets/d55bcd31-138a-474e-8d5d-926889ad88f1)
 
 
