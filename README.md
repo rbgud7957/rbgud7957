@@ -67,7 +67,7 @@
 
 ---
 
-💱 실시간 환율 조회 시스템 (개인) 🔎 [깃허브](https://github.com/rbgud7957/IOT-project.git)
+💱 실시간 환율 조회 시스템 (개인) 🔎 [깃허브](https://github.com/rbgud7957/IoT-Project)
 ⏰ 기간: 2024.05.31 ~ 2024.06.21
 
 ⚙️ 기술 스택: Java, Node.js, MongoDB, HTML/CSS, MQTT, Socket.IO
