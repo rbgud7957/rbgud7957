@@ -21,7 +21,6 @@
           <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat=square&logo=mongodb&logoColor=white">
           <img src="https://img.shields.io/badge/Mongoose-880000?style=flat=square&logo=mongoose&logoColor=white">
           <img src="https://img.shields.io/badge/JWT-000000?style=flat=square&logo=jsonwebtokens&logoColor=white">
-        
           <br/></div>
     </div>
     <div style="text-align: left;">
