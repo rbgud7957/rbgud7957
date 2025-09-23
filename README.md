@@ -1,7 +1,7 @@
 
 
 ##   🙌 소개
-- 이름: 이규형 / Lee Gue Hyeong
+- 이름: 이규형 / Lee Gyue Hyeong
 - 생년월일: 2001.05.18
 - 소속: 한림대학교 정보과학대학 소프트웨어학부 스마트IoT 전공 / 빅데이터 복수전공
 - Email: r67890@naver.com
@@ -18,7 +18,7 @@
           <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white">
           <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=white">
           <img src="https://img.shields.io/badge/Node.js-339933?style=flat=square&logo=node.js&logoColor=white">
-          <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat=square&logo=mongodb&logoColor=white">
+          <br/><img src="https://img.shields.io/badge/MongoDB-47A248?style=flat=square&logo=mongodb&logoColor=white">
           <img src="https://img.shields.io/badge/Mongoose-880000?style=flat=square&logo=mongoose&logoColor=white">
           <img src="https://img.shields.io/badge/JWT-000000?style=flat=square&logo=jsonwebtokens&logoColor=white">
           <br/></div>
@@ -97,7 +97,7 @@ HTML 페이지에서 실시간 데이터 표시
 
 - 사용자들이 더 나은 건강을 유지하며, 자신의 건강 상태에 맞는 영양제 복용을 선택하고 관리할 수 있는 실용적인 애플리케이션
 
-- 기술 스택: Android, HTML, CSS, JAVA, Firebase
+- ⚙️ 기술 스택: Android, HTML, CSS, JAVA, Firebase
   
   - 애플리케이션의 CSS 일부 구현
   - SpringBoot를 이용한 라즈베리파이 서버 만들다가 Firebase로 변경 + Firebase 연동
@@ -142,5 +142,7 @@ Arduino UNO Board
 ---
 
 Node.js 기반의 Todo 앱 (개인) 🔎 [깃허브](https://github.com/rbgud7957/Todo-app.git)
+
+⚙️ 기술 스택 : Node.js , Express, JWT 인증, Mongo DB, Mongoose
 
 
