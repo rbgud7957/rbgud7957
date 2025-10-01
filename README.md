@@ -142,8 +142,19 @@ Arduino UNO Board
 
 ---
 
-Node.js 기반의 Todo 앱 (개인) 🔎 [깃허브](https://github.com/rbgud7957/Todo-app.git)
+## 📝 To-Do 관리 애플리케이션 (개인 프로젝트) 🔗 [깃허브](https://github.com/rbgud7957/Todo-app)
 
-⚙️ 기술 스택 : Node.js , Express, JWT 인증, Mongo DB, Mongoose
+- **2025.09 ~ 진행 중**
+- 개인별 로그인 기반 **할 일 관리 서비스**
+- 카테고리 / 우선순위 / 마감일 관리 및 **통계 기능 제공**
 
+### ⚒️ 기술 스택
+Node.js, Express, MongoDB, JWT, bcrypt
+
+### 📌 구현 기능
+- 회원가입 / 로그인 / JWT 인증
+- Todo CRUD (카테고리, 우선순위, 마감일)
+- 통계 API (완료율, 우선순위별, 카테고리별 통계)
+- 검색 + 필터 + 정렬 + 페이징
+- 비밀번호 변경 기능
 
