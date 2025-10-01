@@ -148,10 +148,10 @@ Arduino UNO Board
 - 개인별 로그인 기반 **할 일 관리 서비스**
 - 카테고리 / 우선순위 / 마감일 관리 및 **통계 기능 제공**
 
-### ⚒️ 기술 스택
-Node.js, Express, MongoDB, JWT, bcrypt
+ ⚒️ 기술 스택
+ - Node.js, Express, MongoDB, JWT, bcrypt
 
-### 📌 구현 기능
+ 📌 구현 기능
 - 회원가입 / 로그인 / JWT 인증
 - Todo CRUD (카테고리, 우선순위, 마감일)
 - 통계 API (완료율, 우선순위별, 카테고리별 통계)
