@@ -72,7 +72,7 @@
 
 ---
 
-💱 실시간 환율 조회 시스템 (개인) 🔎 [깃허브](https://github.com/rbgud7957/IoT-Project)
+## 💱 실시간 환율 조회 시스템 (개인) 🔎 [깃허브](https://github.com/rbgud7957/IoT-Project)
 ⏰ 기간: 2024.05.31 ~ 2024.06.21
 
 ⚙️ 기술 스택: Java, Node.js, MongoDB, HTML/CSS, MQTT, Socket.IO
@@ -93,7 +93,7 @@ HTML 페이지에서 실시간 데이터 표시
 
 ---
 
-**💊 영양제 복용 관리 애플리케이션 (TEAM) 🔎  [깃허브](https://github.com/rbgud7957/Nutriwish.git)
+## 💊 영양제 복용 관리 애플리케이션 (TEAM) 🔎  [깃허브](https://github.com/rbgud7957/Nutriwish.git)
 - *2024.09.06 ~ 2024.11.22*
 
 - 사용자들이 더 나은 건강을 유지하며, 자신의 건강 상태에 맞는 영양제 복용을 선택하고 관리할 수 있는 실용적인 애플리케이션
@@ -108,7 +108,7 @@ HTML 페이지에서 실시간 데이터 표시
 
 ---
 
-🏠 똑똑 스마트 홈 (TEAM) 🔎 [깃허브](https://github.com/rbgud7957/Smarthome.git)
+## 🏠 똑똑 스마트 홈 (TEAM) 🔎 [깃허브](https://github.com/rbgud7957/Smarthome.git)
 
 📅 프로젝트 기간
 2023.11.03 ~ 2023.11.29
