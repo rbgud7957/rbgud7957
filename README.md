@@ -149,7 +149,7 @@ Arduino UNO Board
 - 카테고리 / 우선순위 / 마감일 관리 및 **통계 기능 제공**
 
  ⚒️ 기술 스택
- - Node.js, Express, MongoDB, JWT, bcrypt
+ - Node.js, Express, MongoDB, JWT, bcrypt, Next.js, RESTful API
 
  📌 구현 기능
 - 회원가입 / 로그인 / JWT 인증
@@ -157,4 +157,4 @@ Arduino UNO Board
 - 통계 API (완료율, 우선순위별, 카테고리별 통계)
 - 검색 + 필터 + 정렬 + 페이징
 - 비밀번호 변경 기능
-
+- Vercel, Render, MongoDB atlas를 통한 배포
