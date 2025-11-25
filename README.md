@@ -144,17 +144,47 @@ Arduino UNO Board
 
 ## 📝 To-Do 관리 애플리케이션 (개인 프로젝트) 🔗 [깃허브](https://github.com/rbgud7957/Todo-app)
 
-- **2025.09 ~ 2025.10**
-- 개인별 로그인 기반 **할 일 관리 서비스**
-- 카테고리 / 우선순위 / 마감일 관리 및 **통계 기능 제공**
+### 📅 2025.09 ~ 2025.10
+개인별 로그인 기반으로 할 일을 생성·관리하고,  
+카테고리 / 우선순위 / 마감일을 기준으로 정렬 · 필터링 · 통계 기능을 제공하는  
+풀스택 Todo 웹 애플리케이션입니다.
 
- ⚒️ 기술 스택
- - Node.js, Express, MongoDB, JWT, bcrypt, Next.js, RESTful API
+---
 
- 📌 구현 기능
-- 회원가입 / 로그인 / JWT 인증
-- Todo CRUD (카테고리, 우선순위, 마감일)
-- 통계 API (완료율, 우선순위별, 카테고리별 통계)
-- 검색 + 필터 + 정렬 + 페이징
-- 비밀번호 변경 기능
-- Vercel, Render, MongoDB atlas를 통한 배포
+## 🧰 기술 스택
+
+- **Frontend:** Next.js, Tailwind CSS, Axios  
+- **Backend:** Node.js, Express.js, RESTful API  
+- **Database:** MongoDB + Mongoose  
+- **Auth:** JWT, bcrypt  
+- **Deploy:** Vercel(프론트), Render(백엔드), MongoDB Atlas(DB)
+
+---
+
+## 🚀 구현 기능 요약
+
+### 🔐 회원 인증 기능
+- 회원가입 / 로그인 / 로그아웃  
+- JWT 인증 및 토큰 검증  
+- 비밀번호 암호화(bcrypt)  
+- 사용자별 Todo 데이터 분리 저장  
+- 인증 여부에 따라 페이지 접근 제한(Protected Route)
+
+---
+
+### 📝 Todo 관리 기능 (CRUD)
+- 할 일 생성(Create)  
+- 할 일 조회(Read) – 로그인한 사용자 기준  
+- 할 일 수정(Update) – 제목, 우선순위, 카테고리, 마감일  
+- 할 일 삭제(Delete)  
+- 검색 + 필터 + 정렬 + 페이징 기능 지원  
+
+---
+
+### ☁️ 배포 환경
+- **Next.js 프론트엔드 → Vercel 자동 빌드 & 배포**  
+- **Express 백엔드 → Render 서버 호스팅**  
+- **MongoDB Atlas → 클라우드 DB 운영**  
+- `.env` 파일로 JWT Secret, DB URI 등 환경 변수 관리  
+
+---
