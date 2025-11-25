@@ -149,7 +149,6 @@ Arduino UNO Board
 카테고리 / 우선순위 / 마감일을 기준으로 정렬 · 필터링 · 통계 기능을 제공하는  
 풀스택 Todo 웹 애플리케이션입니다.
 
----
 
 ## 🧰 기술 스택
 
@@ -159,7 +158,6 @@ Arduino UNO Board
 - **Auth:** JWT, bcrypt  
 - **Deploy:** Vercel(프론트), Render(백엔드), MongoDB Atlas(DB)
 
----
 
 ## 🚀 구현 기능 요약
 
@@ -170,7 +168,6 @@ Arduino UNO Board
 - 사용자별 Todo 데이터 분리 저장  
 - 인증 여부에 따라 페이지 접근 제한(Protected Route)
 
----
 
 ### 📝 Todo 관리 기능 (CRUD)
 - 할 일 생성(Create)  
@@ -179,7 +176,6 @@ Arduino UNO Board
 - 할 일 삭제(Delete)  
 - 검색 + 필터 + 정렬 + 페이징 기능 지원  
 
----
 
 ### ☁️ 배포 환경
 - **Next.js 프론트엔드 → Vercel 자동 빌드 & 배포**  
