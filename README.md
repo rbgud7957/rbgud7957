@@ -173,9 +173,9 @@ Arduino UNO Board
 
 
 ### ☁️ 배포 환경
-- **Next.js 프론트엔드 → Vercel 자동 빌드 & 배포**  
-- **Express 백엔드 → Render 서버 호스팅**  
-- **MongoDB Atlas → 클라우드 DB 운영**  
+- Next.js 프론트엔드 → Vercel 자동 빌드 & 배포 
+- Express 백엔드 → Render 서버 호스팅
+- MongoDB Atlas → 클라우드 DB 운영  
 - `.env` 파일로 JWT Secret, DB URI 등 환경 변수 관리  
 
 ---
