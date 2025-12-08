@@ -5,6 +5,7 @@
 - 생년월일: 2001.05.18
 - 소속: 한림대학교 정보과학대학 소프트웨어학부 스마트IoT 전공 / 빅데이터 복수전공
 - Email: r67890@naver.com , rbgud7957@gmail.com
+- 블로그: https://rbgud7957.github.io/
 
 <br>
 
