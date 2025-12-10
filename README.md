@@ -177,6 +177,9 @@ Arduino UNO Board
 - Next.js 프론트엔드 → Vercel 자동 빌드 & 배포 
 - Express 백엔드 → Render 서버 호스팅
 - MongoDB Atlas → 클라우드 DB 운영  
-- `.env` 파일로 JWT Secret, DB URI 등 환경 변수 관리  
+- `.env` 파일로 JWT Secret, DB URI 등 환경 변수 관리
+
+<img src="https://github.com/user-attachments/assets/66259f74-759a-426a-b66d-882d86f2518e" width="50%" />
+
 
 ---
