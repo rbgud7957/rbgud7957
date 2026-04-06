@@ -23,44 +23,10 @@
           <br/><img src="https://img.shields.io/badge/MongoDB-47A248?style=flat=square&logo=mongodb&logoColor=white">
           <img src="https://img.shields.io/badge/Mongoose-880000?style=flat=square&logo=mongoose&logoColor=white">
           <img src="https://img.shields.io/badge/JWT-000000?style=flat=square&logo=jsonwebtokens&logoColor=white">
+          <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white">
+          <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black">
           <br/></div>
     </div>
-    
-
-## 📚 수강 과목
-<details><summary>전공
-</summary>
-
-- 논리설계및실험
-- 이산구조론
-- 선형대수
-- 자바프로그래밍I
-- 자바프로그래밍II
-- C프로프래밍
-- C++프로그래밍
-- 파이썬과학프로그래밍기초
-- 소프트웨어개론
-- 신호및시스템
-- 데이터사이언스기초
-- 디지털신호처리
-- 통신네트워크시스템
-- 오픈소스하드웨어응용
-- 운영체제
-- 자료구조
-- IOT네트워크
-- 정보보호론
-- 네트워크보안
-- 데이터베이스시스템
-- 모바일센서공학
-- 소프트웨어캡스톤디자인
-- SW창업전략과펀딩
-- 소프트웨어특강I
-- 인공지능생체시스템개론
-- 인공지능수학
-- 컴퓨터네트워크
-- 인공지능기초
-
-</details>
 
 <br>
 
