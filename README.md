@@ -12,7 +12,9 @@
 
 <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ 기술 스택 </h2> <br> 
-    <div style="margin: ; text-align: left;" "text-align: left;"> <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white">
+    <div style="margin: ; text-align: left;" "text-align: left;">
+          <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white">
+          <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black">
           <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white">
           <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white">
           <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white">
@@ -20,13 +22,9 @@
           <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white">
           <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=white">
           <img src="https://img.shields.io/badge/Node.js-339933?style=flat=square&logo=node.js&logoColor=white">
-          <br/><img src="https://img.shields.io/badge/MongoDB-47A248?style=flat=square&logo=mongodb&logoColor=white">
-          <img src="https://img.shields.io/badge/Mongoose-880000?style=flat=square&logo=mongoose&logoColor=white">
+          <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat=square&logo=mongodb&logoColor=white">
           <img src="https://img.shields.io/badge/JWT-000000?style=flat=square&logo=jsonwebtokens&logoColor=white">
-          <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white">
-          <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black">
-          <br/></div>
-    </div>
+        
 
 <br>
 
